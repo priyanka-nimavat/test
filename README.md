@@ -1,3 +1,2 @@
 # test
-Basic coding
-PHP CODE FOR CONTACT US, REGISTER PAGE
+Basic PHP code for Contact Us and Register Page
